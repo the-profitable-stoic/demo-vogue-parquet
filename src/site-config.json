@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "VOGUE Parquet®",
+    "phone": "+13053955558",
+    "category": "flooring installer",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Premier Flooring Installers",
+      "heroSubline": "VOGUE Parquet® delivers exceptional flooring solutions in South Florida. Expert installation, durable materials, and unwavering commitment to quality.",
+      "aboutTitle": "Crafting Floors, Building Trust",
+      "aboutText": [
+        "VOGUE Parquet® started with a simple mission: to raise the standard for flooring installation in Miami. Frustrated with inconsistent quality and unreliable service, we set out to build a company that prioritizes craftsmanship and customer satisfaction. Our founder, a Miami native, understood the unique challenges our climate presents and the importance of flooring that lasts.",
+        "Our approach is simple: meticulous preparation, expert installation, and premium materials. We don't cut corners. We believe in open communication, transparent pricing, and exceeding expectations. From initial consultation to final inspection, we're dedicated to ensuring a seamless and stress-free experience.",
+        "We’re proud to be a part of the Miami community. We actively support local initiatives and source materials from regional suppliers whenever possible. Our commitment extends beyond flooring; we're invested in the well-being of our city and its residents."
+      ],
+      "valueProps": [
+        {
+          "title": "Miami-Tough Floors",
+          "description": "Engineered to withstand South Florida's heat, humidity, and hurricane seasons."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our certified installers bring years of experience to every project, ensuring flawless results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, no surprises. We provide clear, detailed estimates upfront."
+        },
+        {
+          "title": "Unwavering Support",
+          "description": "We stand behind our work. Your satisfaction is our top priority, guaranteed."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Space Today",
+      "ctaSubline": "Contact VOGUE Parquet® for a free consultation and discover the perfect flooring solution for your Miami home."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring-installation",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Timeless elegance and lasting value with expert hardwood installation.",
+        "description": "Hardwood flooring offers unmatched beauty and durability, adding warmth and sophistication to any Miami home. At VOGUE Parquet®, we specialize in the precise installation of solid and engineered hardwood, tailored to withstand our humid climate. We begin with a thorough subfloor inspection and moisture testing to ensure proper adhesion and prevent warping. Our team meticulously acclimates the wood to your home's environment before installation, minimizing expansion and contraction. We offer a wide selection of wood species, stains, and finishes to complement your style, from classic oak to exotic Brazilian cherry. Our skilled installers use advanced techniques to create seamless transitions and flawless surfaces. Living in Miami means dealing with moisture, so we also offer moisture barrier options. Hardwood flooring will add value and beauty to your home for years to come.",
+        "process": [
+          "Step 1: Comprehensive consultation and material selection.",
+          "Step 2: Subfloor preparation and moisture testing.",
+          "Step 3: Precise installation with minimal disruption.",
+          "Step 4: Final inspection and customer satisfaction guarantee."
+        ],
+        "benefits": [
+          "Increases property value",
+          "Adds timeless elegance to your home",
+          "Durable and long-lasting",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "Will hardwood flooring work in Miami's humid climate?",
+            "answer": "Yes, with proper installation and moisture control measures. We use engineered hardwood and moisture barriers to mitigate the effects of humidity."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but typically ranges from 2-5 days."
+          },
+          {
+            "question": "What maintenance is required for hardwood floors?",
+            "answer": "Regular sweeping and occasional mopping with a pH-neutral cleaner are recommended. We also recommend professional refinishing every 7-10 years."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable, durable, and stylish laminate flooring solutions.",
+        "description": "Laminate flooring offers a cost-effective and versatile alternative to hardwood, providing the look of real wood or stone without the hefty price tag. VOGUE Parquet® provides expert laminate flooring installation services throughout Miami. We offer a wide variety of styles, colors, and textures to match any decor. Our installation process begins with careful subfloor preparation to ensure a smooth and level surface. We use high-quality underlayment to provide cushioning, sound insulation, and moisture protection. Our experienced installers use precision cutting and fitting techniques to create seamless and professional results. Laminate flooring is highly resistant to scratches, stains, and fading, making it ideal for high-traffic areas and homes with pets or children. In Miami, laminate is a great choice to avoid swelling from the humidity. We offer a range of water resistant and waterproof laminates. With proper care and maintenance, laminate flooring can provide years of beauty and performance.",
+        "process": [
+          "Step 1: Free in-home consultation and estimate.",
+          "Step 2: Precise measurements and material selection.",
+          "Step 3: Professional installation with minimal disruption.",
+          "Step 4: Final walk-through and satisfaction guarantee."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While most laminate is water-resistant, we offer waterproof options specifically designed for bathrooms and kitchens."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last 10-20 years."
+          },
+          {
+            "question": "Can laminate flooring be installed over existing floors?",
+            "answer": "In most cases, yes, provided the existing floor is level and in good condition."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring-installation",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Durable, waterproof, and stylish tile flooring for any room.",
+        "description": "Tile flooring is a versatile and durable option for bathrooms, kitchens, and other high-moisture areas in Miami homes. VOGUE Parquet® specializes in the expert installation of ceramic, porcelain, and natural stone tile. We offer a wide range of tile sizes, shapes, colors, and patterns to create a unique and personalized look. Our installation process begins with careful subfloor preparation and waterproofing to prevent leaks and water damage. We use high-quality thin-set mortar and grout to ensure a strong and durable bond. Our skilled installers pay close attention to detail, ensuring proper alignment, spacing, and grout lines. Tile flooring is resistant to water, stains, and scratches, making it easy to clean and maintain. Tile is especially popular in Miami homes because it is resistant to mold and mildew. With proper installation and maintenance, tile flooring can provide decades of beauty and performance.",
+        "process": [
+          "Step 1: Design consultation and material selection.",
+          "Step 2: Subfloor preparation and waterproofing.",
+          "Step 3: Precise tile installation with expert craftsmanship.",
+          "Step 4: Grouting, sealing, and final inspection."
+        ],
+        "benefits": [
+          "Waterproof and stain-resistant",
+          "Durable and long-lasting",
+          "Easy to clean and maintain",
+          "Wide variety of styles and patterns"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is generally recommended for bathrooms due to its water resistance and durability."
+          },
+          {
+            "question": "How often should tile grout be sealed?",
+            "answer": "Tile grout should be sealed every 1-2 years to prevent staining and water damage."
+          },
+          {
+            "question": "Can tile be installed over existing floors?",
+            "answer": "In many cases, yes, but the existing floor must be structurally sound and properly prepared."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring-installation",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Comfortable, affordable, and waterproof vinyl flooring solutions.",
+        "description": "Vinyl flooring is a popular choice for its affordability, durability, and water resistance, making it ideal for kitchens, bathrooms, and laundry rooms in Miami homes. VOGUE Parquet® offers professional vinyl flooring installation services, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). We begin with a thorough subfloor preparation to ensure a smooth and level surface. We use high-quality adhesives and seam sealers to prevent water damage and ensure a long-lasting installation. Our skilled installers pay close attention to detail, ensuring proper alignment and a seamless finish. Vinyl flooring is available in a wide variety of styles, colors, and patterns, including realistic wood and stone looks. It is also comfortable underfoot and easy to clean and maintain. In Miami, vinyl flooring is great for homes near the water, as it is water resistant and easy to replace. With proper care, vinyl flooring can provide years of beauty and performance.",
+        "process": [
+          "Step 1: In-home consultation and design selection.",
+          "Step 2: Subfloor preparation and moisture testing.",
+          "Step 3: Precise vinyl installation with expert craftsmanship.",
+          "Step 4: Final inspection and customer satisfaction."
+        ],
+        "benefits": [
+          "Waterproof and stain-resistant",
+          "Affordable and budget-friendly",
+          "Comfortable and quiet underfoot",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its water resistance and durability."
+          },
+          {
+            "question": "How long will vinyl flooring last?",
+            "answer": "With proper care and maintenance, vinyl flooring can last 10-20 years."
+          },
+          {
+            "question": "What is the difference between vinyl tile and LVP?",
+            "answer": "Vinyl tile comes in individual squares, while LVP comes in planks that mimic the look of hardwood."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair-restoration",
+        "name": "Floor Repair & Restoration",
+        "shortDescription": "Revive damaged floors with expert repair and restoration services.",
+        "description": "Don't replace it, restore it! VOGUE Parquet® specializes in floor repair and restoration services, breathing new life into damaged hardwood, laminate, and tile floors throughout Miami. Whether you have water damage, scratches, dents, or loose tiles, our skilled technicians can assess the damage and provide effective solutions. For hardwood floors, we offer sanding, refinishing, and board replacement to restore their original beauty. For laminate floors, we can repair or replace damaged planks. For tile floors, we can repair cracked tiles, replace grout, and re-seal surfaces. We understand the unique challenges of Miami's climate and use appropriate materials and techniques to ensure lasting repairs. Our goal is to save you money and extend the life of your floors. From historic Art Deco buildings in South Beach to modern condos in Brickell, we have the expertise to restore any floor to its former glory.",
+        "process": [
+          "Step 1: Thorough inspection and damage assessment.",
+          "Step 2: Customized repair plan and estimate.",
+          "Step 3: Expert repair and restoration services.",
+          "Step 4: Final inspection and customer satisfaction."
+        ],
+        "benefits": [
+          "Saves money compared to replacement",
+          "Extends the life of your floors",
+          "Restores the beauty of your home",
+          "Environmentally friendly option"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my hardwood floors need refinishing?",
+            "answer": "Signs include scratches, dullness, and worn finish."
+          },
+          {
+            "question": "Can you repair water-damaged floors?",
+            "answer": "Yes, we can assess the extent of the damage and provide appropriate repair solutions."
+          },
+          {
+            "question": "How long does floor restoration take?",
+            "answer": "The duration depends on the extent of the damage, but we strive to complete projects as quickly as possible with minimal disruption."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-preparation",
+        "name": "Subfloor Preparation",
+        "shortDescription": "Ensuring a solid foundation for your new floors.",
+        "description": "The key to a long-lasting and beautiful floor installation is proper subfloor preparation. VOGUE Parquet® provides comprehensive subfloor preparation services in Miami, ensuring a solid and level foundation for your new floors. We begin with a thorough inspection of the existing subfloor to identify any issues, such as cracks, unevenness, or moisture damage. We then take the necessary steps to repair or replace damaged areas, level the surface, and apply moisture barriers. We use high-quality materials and advanced techniques to ensure a smooth, stable, and dry subfloor. Whether you're installing hardwood, laminate, tile, or vinyl flooring, proper subfloor preparation is essential for preventing future problems, such as warping, cracking, or buckling. In Miami, moisture control is paramount, so we pay special attention to waterproofing and moisture mitigation. Don't compromise on the foundation of your floors – trust VOGUE Parquet® for expert subfloor preparation.",
+        "process": [
+          "Step 1: Detailed subfloor inspection and assessment.",
+          "Step 2: Repair or replacement of damaged areas.",
+          "Step 3: Leveling and smoothing of the surface.",
+          "Step 4: Application of moisture barriers and waterproofing."
+        ],
+        "benefits": [
+          "Ensures a long-lasting floor installation",
+          "Prevents warping, cracking, and buckling",
+          "Improves the overall appearance of your floors",
+          "Provides a stable and comfortable surface"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor preparation important?",
+            "answer": "Proper subfloor preparation ensures a level, stable, and dry surface for your new floors, preventing future problems."
+          },
+          {
+            "question": "What are the signs of a damaged subfloor?",
+            "answer": "Signs include cracks, unevenness, moisture damage, and squeaking."
+          },
+          {
+            "question": "Can you prepare a subfloor for tile installation?",
+            "answer": "Yes, we specialize in subfloor preparation for all types of flooring, including tile."
+          }
+        ]
+      },
+      {
+        "slug": "baseboard-installation",
+        "name": "Baseboard Installation & Repair",
+        "shortDescription": "The perfect finishing touch for your new floors.",
+        "description": "Complete your flooring project with professional baseboard installation and repair services from VOGUE Parquet®. Baseboards add a finishing touch to any room, concealing the gap between the floor and the wall and protecting the walls from damage. We offer a wide variety of baseboard styles, materials, and finishes to complement your flooring and decor. Our skilled installers use precision cutting and fitting techniques to ensure a seamless and professional look. Whether you need new baseboards installed or existing baseboards repaired, we can handle any project with expertise and attention to detail. We understand the architectural styles of Miami homes, from the clean lines of modern condos to the ornate details of historic buildings. We'll help you choose the perfect baseboards to enhance the beauty of your space. We also offer baseboard painting and caulking services to complete the look.",
+        "process": [
+          "Step 1: Consultation and baseboard selection.",
+          "Step 2: Precise measurements and cutting.",
+          "Step 3: Professional installation with seamless joints.",
+          "Step 4: Caulking, painting, and finishing touches."
+        ],
+        "benefits": [
+          "Adds a finishing touch to your floors",
+          "Protects walls from damage",
+          "Enhances the overall appearance of your space",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of baseboard for my home?",
+            "answer": "The best type of baseboard depends on your flooring style, decor, and budget. We can help you choose the perfect option."
+          },
+          {
+            "question": "Can you repair damaged baseboards?",
+            "answer": "Yes, we can repair or replace damaged baseboards."
+          },
+          {
+            "question": "Do you offer baseboard painting services?",
+            "answer": "Yes, we offer baseboard painting and caulking services to complete the look."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® is proud to offer premium flooring installation services to the residents and businesses of Fort Lauderdale, Florida. Known for its beautiful waterfront properties and vibrant boating culture, Fort Lauderdale presents unique flooring challenges and opportunities. Many homes in Fort Lauderdale, particularly those built in the 1960s and 70s, feature architectural styles that benefit from the timeless elegance of hardwood flooring. \n\nOur experienced team understands the specific needs of Fort Lauderdale homeowners. We specialize in installing moisture-resistant flooring options that can withstand the year-round heat and humidity, ensuring your investment lasts for years to come. From classic hardwood to modern engineered solutions, VOGUE Parquet® will help you find the perfect flooring to complement your Fort Lauderdale lifestyle.",
+        "localContext": "We understand the style of Fort Lauderdale homes, from the mid-century modern designs to the contemporary waterfront estates, and can recommend flooring that complements your property's unique character.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Hollywood",
+          "Wilton Manors"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® is dedicated to providing exceptional flooring installation services in Coral Springs, Florida. As a well-planned community developed primarily in the 1980s and 90s, Coral Springs boasts a diverse range of homes, each with its own distinct style. Whether you're updating a family home or renovating a commercial space, we offer a wide selection of flooring options to suit your needs.\n\nOur team is experienced in working with the architectural styles prevalent in Coral Springs. We understand the importance of durability and ease of maintenance, especially given the year-round heat and humidity. VOGUE Parquet® provides expert guidance to help you choose the perfect flooring that combines beauty, functionality, and longevity.",
+        "localContext": "We are familiar with the common architectural styles found in Coral Springs and can help you select flooring that complements your home's existing design while addressing the challenges of the Florida climate.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® is proud to serve the flooring needs of Pembroke Pines, Florida. Known for its planned developments and family-friendly atmosphere, Pembroke Pines offers a variety of housing options, from single-family homes to townhouses. Selecting the right flooring is essential for creating a comfortable and stylish living space.\n\nWe specialize in providing flooring solutions that meet the demands of Pembroke Pines families. Our team understands the importance of durable, easy-to-clean flooring that can withstand the wear and tear of daily life. With a wide range of options and expertise, VOGUE Parquet® is your trusted partner for all your flooring needs in Pembroke Pines.",
+        "localContext": "We understand the needs of Pembroke Pines residents, offering flooring solutions that are both beautiful and practical for the busy lifestyles of families in this vibrant community.",
+        "nearbyAreas": [
+          "Miramar",
+          "Weston",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® provides premium flooring installation services to the discerning residents of Boca Raton, Florida. Renowned for its luxury waterfront estates and upscale living, Boca Raton demands the finest quality and craftsmanship in every detail. We offer a curated selection of high-end flooring options to elevate your home's aesthetic.\n\nOur team is experienced in working with the unique architectural styles and design preferences of Boca Raton homeowners. We understand the importance of creating a sophisticated and elegant atmosphere that reflects your personal style. From exquisite hardwood to luxurious tile, VOGUE Parquet® will help you create the home of your dreams.",
+        "localContext": "We are familiar with the high standards of Boca Raton residents and offer flooring options that meet their expectations for luxury, quality, and lasting beauty.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Highland Beach",
+          "Coconut Creek"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® is pleased to offer exceptional flooring installation services to the residents and businesses of West Palm Beach, Florida. With its rich history and diverse architectural styles, including many homes dating back to the 1920s-50s, West Palm Beach presents unique flooring challenges and opportunities. We are experienced in preserving the character of historic homes while incorporating modern flooring solutions.\n\nOur team understands the specific needs of West Palm Beach property owners. From restoring original hardwood floors to installing new, energy-efficient options, VOGUE Parquet® provides expert guidance and craftsmanship. We can help you find the perfect flooring to complement your West Palm Beach lifestyle.",
+        "localContext": "We are familiar with the historic architecture of West Palm Beach and can recommend flooring that complements the character of your home while addressing the challenges of the Florida climate.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami Beach",
+        "slug": "miami-beach-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® is proud to offer flooring installation services in Miami Beach, Florida. Known for its Art Deco architecture, luxury condos, and vibrant nightlife, Miami Beach presents unique flooring challenges and opportunities. We offer a wide range of flooring options to complement the modern and stylish aesthetic of Miami Beach homes and businesses.\n\nOur experienced team understands the specific needs of Miami Beach property owners. We specialize in installing moisture-resistant flooring options that can withstand the year-round heat and humidity, ensuring your investment lasts for years to come. From sleek tile to elegant hardwood, VOGUE Parquet® will help you find the perfect flooring to complement your Miami Beach lifestyle.",
+        "localContext": "We are familiar with the architectural styles of Miami Beach, from Art Deco to contemporary, and can recommend flooring that complements your property's unique character.",
+        "nearbyAreas": [
+          "Bal Harbour",
+          "Surfside",
+          "Bay Harbor Islands"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® proudly provides flooring installation in Hollywood, Florida. Hollywood boasts a mix of vintage charm and modern innovation. Many homes, especially those closer to the beach, experience higher humidity and foot traffic. Choosing the right flooring can make all the difference.\n\nOur knowledgeable team understands the challenges and opportunities presented by Hollywood's diverse architecture. We prioritize durable, water-resistant options perfect for the coastal climate. VOGUE Parquet® is committed to helping you find the perfect flooring solution to enhance your Hollywood home or business.",
+        "localContext": "We understand the diverse needs of Hollywood residents and businesses, offering a range of flooring solutions to match any style and budget.",
+        "nearbyAreas": [
+          "Hallandale Beach",
+          "Dania Beach",
+          "Pembroke Park"
+        ]
+      },
+      {
+        "city": "Plantation",
+        "slug": "plantation-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® provides expert flooring installation services in Plantation, Florida. Known for its lush landscaping and family-friendly community, Plantation offers a variety of housing styles. Selecting the right flooring is key to creating a comfortable and stylish home that stands up to the Florida climate.\n\nOur team understands the specific needs of Plantation homeowners. We offer durable and easy-to-maintain flooring options that can withstand the demands of family life and the year-round heat and humidity. VOGUE Parquet® is dedicated to helping you find the perfect flooring to enhance your Plantation home.",
+        "localContext": "We understand the importance of durable and family-friendly flooring options for Plantation residents, offering a wide selection of styles and materials to choose from.",
+        "nearbyAreas": [
+          "Sunrise",
+          "Davie",
+          "Lauderhill"
+        ]
+      },
+      {
+        "city": "Delray Beach",
+        "slug": "delray-beach-fl",
+        "state": "FL",
+        "content": "VOGUE Parquet® is dedicated to providing top-tier flooring installation services in Delray Beach, Florida. This coastal city is known for its vibrant downtown area, beautiful beaches, and diverse architectural styles. From historic homes to modern condos, Delray Beach offers a unique blend of living spaces.\n\nOur experienced team understands the specific needs of Delray Beach residents. We offer a wide selection of flooring options that are both stylish and durable, perfect for withstanding the Florida climate and the demands of coastal living. VOGUE Parquet® is committed to helping you find the perfect flooring solution to enhance your Delray Beach home or business.",
+        "localContext": "We are familiar with the diverse architectural styles of Delray Beach and can recommend flooring options that complement your property's unique character and withstand the coastal environment.",
+        "nearbyAreas": [
+          "Boca Raton",
+          "Boynton Beach",
+          "Gulf Stream"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "VOGUE Parquet® transformed my Coconut Grove home! The hardwood floors look incredible, and the installers were professional and efficient. They even helped me choose the perfect stain to match my furniture. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Laminate Flooring Installation",
+        "text": "Great experience with VOGUE Parquet®. They installed laminate flooring in my Brickell condo. The price was fair, and the installation was quick. There was a small issue with a damaged plank, but they came back and fixed it right away.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "VOGUE Parquet® did an amazing job installing tile in my bathroom. The quality of the work is excellent, and the installers were very clean and respectful of my home. I especially appreciated their attention to detail in the grout lines.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Ricardo M.",
+        "rating": 5,
+        "service": "Floor Repair & Restoration",
+        "text": "I thought my hardwood floors were beyond repair after a water leak. VOGUE Parquet® worked magic! They sanded, refinished, and replaced damaged boards, and now my floors look brand new. Thank you!",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "Good service and fair price. They installed vinyl plank flooring in my Little Havana apartment. It looks great and is so easy to clean. The only downside was a slight delay in scheduling.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Roberto P.",
+        "rating": 5,
+        "service": "Subfloor Preparation",
+        "text": "VOGUE Parquet® did an excellent job preparing my subfloor before installing my new hardwood floors. They leveled the surface and applied a moisture barrier, ensuring a solid foundation. I highly recommend their services!",
+        "date": "2024-10-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "VOGUE Parquet® | Miami Flooring Installers",
+        "description": "Expert flooring installation in Miami, FL. Hardwood, laminate, tile, vinyl. Call +13053955558 for a free quote."
+      },
+      "about": {
+        "title": "About VOGUE Parquet® | Miami Flooring",
+        "description": "Learn about VOGUE Parquet®'s commitment to quality flooring installation in Miami. Trusted local experts."
+      },
+      "services": {
+        "title": "Flooring Services | VOGUE Parquet® Miami",
+        "description": "Hardwood, laminate, tile, vinyl flooring installation and repair services in Miami. Free estimates."
+      },
+      "contact": {
+        "title": "Contact VOGUE Parquet® | Miami Flooring",
+        "description": "Contact VOGUE Parquet® for all your flooring needs in Miami. Call +13053955558 or fill out our online form."
+      },
+      "reviews": {
+        "title": "VOGUE Parquet® Reviews | Miami Flooring",
+        "description": "Read reviews from satisfied VOGUE Parquet® customers in Miami. Expert flooring installation and repair."
+      },
+      "service-areas": {
+        "title": "VOGUE Parquet® Service Areas | Miami, FL",
+        "description": "VOGUE Parquet® provides flooring installation services throughout the Miami metro area. Call today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring-installation": "/images/service-hardwood-flooring-installation.webp",
+      "laminate-flooring-installation": "/images/service-laminate-flooring-installation.webp",
+      "tile-flooring-installation": "/images/service-tile-flooring-installation.webp",
+      "vinyl-flooring-installation": "/images/service-vinyl-flooring-installation.webp",
+      "floor-repair-restoration": "/images/service-floor-repair-restoration.webp",
+      "subfloor-preparation": "/images/service-subfloor-preparation.webp",
+      "baseboard-installation": "/images/service-baseboard-installation.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring-installation": {
+        "src": "/images/service-hardwood-flooring-installation.webp",
+        "srcset": "/images/service-hardwood-flooring-installation-400w.webp 400w, /images/service-hardwood-flooring-installation-800w.webp 800w, /images/service-hardwood-flooring-installation-1200w.webp 1200w, /images/service-hardwood-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring-installation": {
+        "src": "/images/service-laminate-flooring-installation.webp",
+        "srcset": "/images/service-laminate-flooring-installation-400w.webp 400w, /images/service-laminate-flooring-installation-800w.webp 800w, /images/service-laminate-flooring-installation-1200w.webp 1200w, /images/service-laminate-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring-installation": {
+        "src": "/images/service-tile-flooring-installation.webp",
+        "srcset": "/images/service-tile-flooring-installation-400w.webp 400w, /images/service-tile-flooring-installation-800w.webp 800w, /images/service-tile-flooring-installation-1200w.webp 1200w, /images/service-tile-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring-installation": {
+        "src": "/images/service-vinyl-flooring-installation.webp",
+        "srcset": "/images/service-vinyl-flooring-installation-400w.webp 400w, /images/service-vinyl-flooring-installation-800w.webp 800w, /images/service-vinyl-flooring-installation-1200w.webp 1200w, /images/service-vinyl-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair-restoration": {
+        "src": "/images/service-floor-repair-restoration.webp",
+        "srcset": "/images/service-floor-repair-restoration-400w.webp 400w, /images/service-floor-repair-restoration-800w.webp 800w, /images/service-floor-repair-restoration-1200w.webp 1200w, /images/service-floor-repair-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-preparation": {
+        "src": "/images/service-subfloor-preparation.webp",
+        "srcset": "/images/service-subfloor-preparation-400w.webp 400w, /images/service-subfloor-preparation-800w.webp 800w, /images/service-subfloor-preparation-1200w.webp 1200w, /images/service-subfloor-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "baseboard-installation": {
+        "src": "/images/service-baseboard-installation.webp",
+        "srcset": "/images/service-baseboard-installation-400w.webp 400w, /images/service-baseboard-installation-800w.webp 800w, /images/service-baseboard-installation-1200w.webp 1200w, /images/service-baseboard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
